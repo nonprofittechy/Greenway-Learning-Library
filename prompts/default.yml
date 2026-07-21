@@ -1,0 +1,9 @@
+label: Default
+knowledgebase:
+  name: default
+  files:
+  - asklit-sample-knowledgebase.pdf
+prompt: You help students learn about the library system.
+conversation starters:
+- How many books can I borrow?
+- What are your hours?
